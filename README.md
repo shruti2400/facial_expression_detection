@@ -1,6 +1,3 @@
-Here's an improved and well-structured version of your README content:
-
----
 
 # Facial Expression Detection
 
@@ -104,20 +101,7 @@ The model was trained on the **FER-2013** dataset and achieved the following acc
 - **Training Accuracy**: ~70%
 - **Validation Accuracy**: ~67%
 
-### Sample Results of Real-Time Detection:
-| Emotion  | Detected in Real-Time |
-|----------|-----------------------|
-| Happy    | ✅                   |
-| Sad      | ✅                   |
-| Angry    | ✅                   |
-| Surprise | ✅                   |
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-This updated README includes structured sections, proper formatting, and detailed information about your project, making it easier for others to understand and use your work. Let me know if you need any additional modifications!
