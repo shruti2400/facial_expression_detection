@@ -102,6 +102,3 @@ The model was trained on the **FER-2013** dataset and achieved the following acc
 - **Validation Accuracy**: ~67%
 
 
-## Contributing
-Contributions are welcome! If you have any ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
-
